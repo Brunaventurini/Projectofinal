@@ -130,41 +130,10 @@ Known Bugs (Shortlist):
 
 Remember to continuously test and iterate on the system to enhance its performance, accuracy, and user experience throughout its development.
 
-### :information_source: **Further info**
-Credits, alternatives, references, license.
 
-### :love_letter: **Contact info**
-If you have any questions, suggestions, or just want to chat about music and data, feel free to reach out to the project creator:
+### :love_letter: **Contact info**:
 
     Name: Bruna Venturini
     Email: brunafventurini@gmail.com
     GitHub: https://github.com/Brunaventurini
 ---
-
-> Here you have some repo examples:
-
-- [Spotify Recommender](https://github.com/a-fp/Final_Project)
-
-- [Political Spanish Sentiment](https://github.com/ssarahreyes/political_spanish_sentiment)
-- [Face-Mask Detection](https://github.com/marinafdezban/final_project)
-
-- [Data Town](https://github.com/carpiero/DataTown)
-- [Show us your Panerai Watch!](https://github.com/Pvillamanario/Panerai_or_not_Ironhack_final_project)
-
-- [Onegy](https://github.com/borjauria/Final-Project)
-- [Yummest](https://github.com/almsasantos/Yummest_Food_App)
-- [Math handwritting recognition](https://github.com/yaakx/Math_handwritting_recognition)
-- [HackDecó](https://github.com/herreradelduque/Ironhack-Final-Project---HackDeco)
-
-- [E-VITALOS](https://github.com/marinapm90/E-vitalos)
-- [Movie Founder](https://github.com/Alfagu/final-project-Ironhack-0419mad)
-
-- [MMELT](https://github.com/Juanjopf19/Ironhack-final-project--MMELT) 
-- [Mamba (OCR-Translator-Assistant)](https://github.com/YonatanRA/OCR-translator-assistant-project)
-- [Art Classification](https://github.com/serguma/art_classification)
-
-> Here you have some tools and references:
-- [Make a README](https://www.makeareadme.com/)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
