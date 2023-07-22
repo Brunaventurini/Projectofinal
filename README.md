@@ -1,7 +1,7 @@
 # Create Your Music Based on Facts - Tableau Dashboard
 
-🔽 START TO ANALIZE NOW 🔽
-How does it work?
+                🔽 START TO ANALIZE NOW 🔽
+                    How does it work?
 
 Select your chosen country in the filter below. Watch out for trends!
 Filter your data based on BPM, Key Note, Popularity, Genres and Related Artists.
@@ -10,7 +10,7 @@ Filter your data based on BPM, Key Note, Popularity, Genres and Related Artists.
 ## **Suggested Structure:**
 
 ### :raising_hand: **Trends By Country**
-### :baby: **Alpha Version. First Version from this database music dashboard.**
+### :baby: **Beta Version. First Version from this database music dashboard.**
 
 ### :running: **One-liner**
 Construction of a dashboard analyzing data from the top songs from 50 countries on Spotify (weekly updateded). This could be helpful engaing new audience and personalize music  based on data trends by country.
