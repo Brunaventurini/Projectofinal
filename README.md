@@ -1,4 +1,4 @@
-# Create Your Music Based on Trends - Tableau Dashboard
+# Create Music Based on Trends - Tableau Dashboard
 
                 🔽 START TO ANALIZE NOW 🔽
                     How does it work?
